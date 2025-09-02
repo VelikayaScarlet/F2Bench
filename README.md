@@ -1,5 +1,5 @@
 <h2 align="center">
-F²Bench: An Open-ended Fairness Evaluation Benchmark for LLMs with Factuality Considerations
+⚖️F²Bench: An Open-ended Fairness Evaluation Benchmark for LLMs with Factuality Considerations📖
 </h2>
 
 <p align="center">
@@ -26,7 +26,7 @@ F²Bench: An Open-ended Fairness Evaluation Benchmark for LLMs with Factuality C
  \* corresponding author
 
 <div>
-  <img src="https://github.com/VelikayaScarlet/F2Bench/blob/main/content/f2bench_structure.pdf" alt="F2Bench" />
+  <img src="https://github.com/VelikayaScarlet/F2Bench/blob/main/content/f2bench_structure_page-0001.jpg" alt="F2Bench" />
 </div>
 
 Paper: Coming Soon
